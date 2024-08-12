@@ -1,0 +1,13 @@
+.item {
+
+    padding: 10px;
+    border: solid 1px black;
+    display: flex;
+    align-items: center;
+    
+}
+
+.item img {
+    display: flex;
+    width: 30%;
+}

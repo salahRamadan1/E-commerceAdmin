@@ -1,0 +1,28 @@
+.imageCoupon {
+    width: 90% !important;
+    height: 250px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.search {
+    position: relative;
+}
+
+.iconeSearch {
+    position: absolute;
+    top: 30%;
+    right: 3%;
+
+}
+
+.iconeSearchClose {
+    position: absolute;
+    left: 3%;
+    top: 30%;
+
+}
+
+.mouseCursor {
+    cursor: pointer !important;
+}

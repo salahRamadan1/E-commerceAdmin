@@ -1,0 +1,21 @@
+.link-inactive{
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.link-active   {
+
+    background: black;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 50px;
+}
+.profileImage {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

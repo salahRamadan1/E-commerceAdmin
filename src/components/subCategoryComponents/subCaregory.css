@@ -1,0 +1,36 @@
+.floatButton {
+    position: fixed;
+    bottom: 3%;
+    right: 2%;
+
+}
+
+.fab {
+    color: white !important;
+    background-color: #000 !important;
+}
+
+.search {
+    position: relative;
+}
+
+.iconeSearch {
+    position: absolute;
+    top: 30%;
+    right: 3%;
+
+}
+
+.iconeSearchClose {
+    position: absolute;
+    left: 3%;
+    top: 30%;
+
+}
+
+.mouseCursor {
+    cursor: pointer !important;
+}
+.idCategory{
+    font-size: 10px;
+}
